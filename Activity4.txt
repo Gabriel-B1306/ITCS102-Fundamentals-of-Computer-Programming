@@ -1,0 +1,11 @@
+#escape sequences - Modify the  behaviour linear formatted string
+# \n - new line
+# \t - tab
+# \r - carriage return / deprecated (obsolete)
+# \b - backspace
+# \\ - insert slash
+# \" - insert double quotation
+
+phrase1 = "You must not give  up and always stand up,, Gab \n\t\t\t\t\tso you always keep going to another one and see where things goo" 
+
+print(phrase1)

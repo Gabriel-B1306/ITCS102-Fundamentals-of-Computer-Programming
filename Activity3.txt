@@ -1,0 +1,18 @@
+#Using Variable
+
+#int
+age = 15
+class_size= 58
+
+#float
+temp = 38.2
+speed = 30.5
+
+#string
+username = "Rengar"
+Code = "WHAT"
+
+#boolean
+isRich = False
+
+print("My username is", username,"and my age is", age,",My Size is", class_size)
