@@ -15,13 +15,13 @@ hobbies += d + ", "
 e = input("Anything else? ")
 hobbies += e + ", "
 
-f = input("Anything else? ")
+f = input("Anything worries? ")
 hobbies += f + ", "
 
-g = input("Anything else? ")
+g = input("need help? ")
 hobbies += g + ", "
 
-h = input("Anything else? ")
+h = input("Im here for u? ")
 hobbies += h + ", "
 
 print("Your hobbies are: {", hobbies, "}")
