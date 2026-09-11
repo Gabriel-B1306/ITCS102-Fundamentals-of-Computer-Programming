@@ -1,0 +1,22 @@
+total = 5
+
+n= eval(input("enter any number -->"))
+total = total + n
+
+a= eval(input("enter any number -->"))
+total = total + a
+
+x= eval(input("enter any number -->"))
+total = total + x
+
+d= eval(input("enter any number -->"))
+total = total + d
+
+c= eval(input("enter any number -->"))
+total = total-= c
+
+1= eval(input("enter any number -->"))
+total = total*= 1
+
+
+print("current Total is --> ",total)
