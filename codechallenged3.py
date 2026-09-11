@@ -1,5 +1,3 @@
-
-
 name = input("What is your name ---->>> ")
 item = input("What type of item is this ---->>> ")
 isFragile = input("Is the item fragile (True/False) ---->>> ").lower() == 'true'
