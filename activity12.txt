@@ -1,0 +1,26 @@
+#multiple if and  elif conditions 
+#create a pyhton program that would capture age group
+
+name = input("please input your name ---> ")
+age = int(input("Please input your age ----> "))
+
+if age >= 0 and age <=5:
+	print("that age is considered as  INFANT ")
+
+if age >= 6 and age <=12:
+	print("that age is considered as  KID ")
+
+if age >= 13 and age <=15:
+	print("that age is considered as  PRE TEEN ")
+
+if age >= 16 and age <=19:
+	print("that age is considered as  TEENAGER ")
+
+if age >= 20 and age <=29:
+	print("that age is considered as  EARLY ADULTHOOD ")
+
+else:
+	print("age invalid")
+
+
+
